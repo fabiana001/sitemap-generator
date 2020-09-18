@@ -1,0 +1,14 @@
+/RUNNING_PID
+/logs/
+/project/*-shim.sbt
+/project/project/
+/project/target/
+/target/
+.project
+.classpath
+/bin
+/d3
+/src/test/resources/pruningTest/
+.DS_Store
+.idea
+.idea_modules
